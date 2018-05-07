@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnSearch"
+        android:orderInCategory="100"
+        android:title="Find Location" />
+    <item
+        android:id="@+id/mnFindRoad"
+        android:orderInCategory="100"
+        android:title="Search Road" />
+    <item
+        android:id="@+id/mnExit"
+        android:orderInCategory="100"
+        android:title="Exit" />
+</menu>
